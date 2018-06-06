@@ -1,4 +1,4 @@
-﻿namespace DpServices.Droid.DependenciasServices
+﻿namespace DpServices
 {
     public interface IPlatMessage
     {

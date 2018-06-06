@@ -12,7 +12,8 @@ namespace DpServices
 		public MainPage()
 		{
 			InitializeComponent();
-
+            this.btnMessage.Clicked += BtnMessage_Clicked;
+            this.btnTextoVoz.Clicked += BtnTextoVoz_Clicked;
         }
     }
 
